@@ -8,3 +8,4 @@ Olá! Bem vindo ao meu livro de receitas.
  - Pavê
  - Filé à Parmegiana
  - Arroz Indiano
+ - Banana com Canela
