@@ -1,6 +1,6 @@
-#Strogonoff de Franco
+# Strogonoff de Franco
 
-###Ingredientes
+### Ingredientes
 
  - 1kg de peito de frango sem pele
  - 1 tablete de caldo de galinha
