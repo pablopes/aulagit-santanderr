@@ -7,3 +7,4 @@ Olá! Bem vindo ao meu livro de receitas.
  - Banana Split
  - Pavê
  - Filé à Parmegiana
+ - Banana com Canela
